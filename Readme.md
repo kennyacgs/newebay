@@ -4,3 +4,5 @@
 #class 
 #class2
 #Ok
+#auto
+
