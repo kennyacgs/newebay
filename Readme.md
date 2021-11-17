@@ -5,9 +5,5 @@
 #class2
 #Ok
 #cool
-#
 #auto
-
-=======
 #commit
->>>>>>> stage
